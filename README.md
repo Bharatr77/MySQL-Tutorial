@@ -14,7 +14,7 @@ This project demonstrates the application of MySQL to solve real-world business 
     * **Data Modeling:** Handling relational data between 5 interconnected tables.
     * **Advanced Features:** View creation and Window Functions (RANK()) for competitive supplier analysis.
 
-## 🚀 Key Business Questions Addressed
+## Key Business Questions Addressed
 - **Customer Insights:** Identifying customer distribution by country (e.g., Mexico).
 - **Sales Trends:** Monthly and yearly order volume tracking to identify peak seasons.
 - **Supplier Performance:** Finding top suppliers by product count and total revenue.
